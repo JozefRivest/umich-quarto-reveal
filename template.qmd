@@ -1,12 +1,12 @@
 ---
-title: A title
-subtitle: A subtitle
+title: The Permanent Mark
+subtitle: How Violence Shapes the State and the Nation
 format: clean-revealjs
 author:
-  - name: Your Name
+  - name: Jozef Rivest
     orcid: 0000-0000-0000-0000
-    email: alias@email.com
-    affiliations: Your Institution
+    email: "`jrivest@umich.edu`"
+    affiliations: Michigan
 date: last-modified
 ---
 

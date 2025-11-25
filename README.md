@@ -5,11 +5,9 @@ Initially copied from Grant McDermott and Kyle Butt's clean theme, published und
 [https://github.com/grantmcdermott/quarto-revealjs-clean](https://github.com/grantmcdermott/quarto-revealjs-clean)
 
 Click the screenshot below to be taken to a
-[live demo](https://jozefrivest.com/quarto-revealjs-clean-demo/template.html).
+[live demo](https://jozefrivest.com/umich-quarto-reveal-demo/template.html).
 
-[![](clean-title.png "live demo")]
-
-<!--(https://jozefrivest.com/quarto-revealjs-clean-demo/template.html)-->
+[![](clean-title.png "live demo")](https://jozefrivest.com/umich-quarto-reveal-demo/template.html)
 
 ## Use
 

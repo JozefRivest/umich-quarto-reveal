@@ -274,7 +274,7 @@ img.slide-logo {
 
 .footer::before {
   content: var(--footer-left-text, "Department");
-  font-size: 25pt;
+  font-size: 23pt;
   color: #FFCB05;
   position: absolute;
   left: 0;
@@ -285,7 +285,7 @@ img.slide-logo {
 
 .footer::after {
   content: var(--footer-right-text, "Author Name");
-  font-size: 25pt;
+  font-size: 23pt;
   color: #00274C;
   position: absolute;
   right: 0;
